@@ -1,2 +1,2 @@
 # test
-https://1maniak.github.io/test/
+https://1maniak.github.io/priglashenie/
